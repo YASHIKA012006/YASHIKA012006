@@ -44,19 +44,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YASHIKA012006&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASHIKA012006&layout=compact&langs_count=8&theme=radical" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASHIKA012006&theme=radical" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🏆 Featured Projects
 
 <table>
