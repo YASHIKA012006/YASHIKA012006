@@ -6,8 +6,6 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgywJF8yNK2l/giphy.gif" width="300"/>
-
 - 💻 **Full Stack Developer** passionate about creating amazing web applications
 - 🎓 **Tech Enthusiast** always learning new technologies
 - 🌟 **Problem Solver** with a passion for clean, efficient code
