@@ -96,14 +96,6 @@
 
 ---
 
-## 📈 Activity & Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=YASHIKA012006&theme=radical&hide_border=true&area=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 🎓 Education & Certifications
 
 - 📚 **[Your Degree]** - APJ ABDUL KALAM TECHNICAL UNIVERSITY (2028)
@@ -137,11 +129,9 @@
 ---
 
 <div align="center">
+
+
   
-**⭐ If you like my profile, give it a star! ⭐**
-
-![](https://komarev.com/ghpvc/?username=YASHIKA012006&color=blue)
-
 *Last updated: 2026-04-19*
 
 </div>
